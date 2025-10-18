@@ -1,3 +1,4 @@
+**contributor** - sarah-naqvi
 <div align="center">
 
 ![Hacktoberfest Banner](assets/Banner/HF2025-EmailHeader.png)
